@@ -1,5 +1,3 @@
-Snnipets for LearnPress
-
 # LearnPress - Custom Default Tab 🧠
 
 This WordPress snippet for LearnPress:
