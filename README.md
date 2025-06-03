@@ -1,4 +1,4 @@
-# LearnPress - Custom Default Tab 🧠
+# LearnPress - Custom Default Tab 💼
 
 This WordPress snippet for LearnPress:
 - Removes the default "My Courses and Courses" tab from the `/lp-profile` navigation.
